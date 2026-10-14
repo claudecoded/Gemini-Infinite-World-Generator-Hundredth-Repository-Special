@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Local environment variables (Contains your Gemini API Key)
+.env
+.env.local
+
+# Logs and system files
+.DS_Store
+npm-debug.log*
