@@ -3,6 +3,41 @@
 ## 🚀 Celebrating Repository #100!
 This repository marks a major milestone: **my 100th GitHub repository!** To celebrate a century of code, I am building on the bleeding edge of AI technology using the state-of-the-art **Gemini 4 Argon** model to achieve something that was previously impossible.
 
+## Special Thanks to:
+
+All my, uh... two followers that motivated me until here lol
+
+<img width="951" height="245" alt="Screenshot 2026-10-14 182059" src="https://github.com/user-attachments/assets/f9ae2006-93e1-4843-b117-7558daa066f9" />
+
+And, for my fundamental tools on all this journey:
+
+- Decentraland License
+- Apple Sample Code License
+
+  And finally, to my special assistants that helped me on all this:
+
+Claude Code (Claw'd) Very, very thanks to write me lots of code until here. You was responsible of big parts of the creation of GitHub multiverse and much others.
+Google AI Mode Thanks too, man. You guided me step by step on all this path to glory.
+
+And at last, thanks to Mark Zuckerberg for been stealing all mY DATA FOR ALL THIS TIME YOU LITTLE (lol)
+
+## Also here's some bonus
+
+1) An rare screenshot from my File Explorer (don't ask me form where is that fat boy picture)
+
+<img width="1448" height="736" alt="image" src="https://github.com/user-attachments/assets/be9f8dc7-7dd7-4c5e-87f2-c56e71f26dca" />
+
+2) A quick acess link to the next generation of Metaverse (sorry Meta):
+
+## 👉 https://github-universe-sigma.vercel.app/
+
+3) Please open an discussion telling if I should change my profile picture to this below (bruh):
+
+   <img width="896" height="1195" alt="Untitledeadsdw" src="https://github.com/user-attachments/assets/652637b3-19d1-4512-86cf-108261aea0d9" />
+
+---
+ok now back to the repo
+
 ## 🧠 The Concept
 Traditional Large Language Models (LLMs) break down when tasked with coding complex, full-scale 3D games or environments because of tight output token constraints (usually cutting off after 4K to 64K tokens). 
 
