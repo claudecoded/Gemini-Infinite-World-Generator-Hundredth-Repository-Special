@@ -1,0 +1,12 @@
+{
+  "name": "gemini-infinite-world-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "description": "A 3D world generator leveraging Gemini 4 Argon massive long decode output capabilities.",
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "dotenv": "^16.4.5",
+    "yargs": "^17.7.2"
+  }
+}
